@@ -1,0 +1,3 @@
+First, replace 'YOUR_DISCORD_TOKEN' with your own Discord bot token. Also, specify the correct guild (server) identifier in the GUILD_ID variable. This script will automatically decline all invitations on the specified server.
+Before running the script, make sure you have the discord.py library installed. You can install it by running the command pip install discord.py.
+Please note that automating invitation rejections may violate Discord's terms of service, so it's recommended to use this script only on servers where such behavior is allowed or with the consent of the server administrators.
