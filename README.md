@@ -1,4 +1,4 @@
-# discord_decline_inviteder
+# discord-decline_inviteder
 Python script to automate declining invitations in Discord
 import discord
 from discord.ext import commands
