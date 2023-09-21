@@ -1,7 +1,7 @@
 # discord_decline_invite  
 Python script to automate declining invitations in Discord 
 import discord
-from discord.ext import commands
+from discord.ext import commands 
 
 TOKEN = 'YOUR_DISCORD_TOKEN'
 GUILD_ID = 1234567890  # Replace with the server's identifier where you want to decline invitations
